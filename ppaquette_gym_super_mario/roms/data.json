@@ -1,0 +1,20 @@
+{
+  "info": {
+    "luigi_score": {
+      "address": 2022,
+      "type": ">n4"
+    },
+    "luigi_x": {
+      "address": 551,
+      "type": "|u1"
+    },
+    "mario_score": {
+      "address": 2012,
+      "type": ">n8"
+    },
+    "mario_x": {
+      "address": 940,
+      "type": ">u2"
+    }
+  }
+}
